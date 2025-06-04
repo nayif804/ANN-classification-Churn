@@ -6,3 +6,4 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+echo "python-3.10" > runtime.txt
